@@ -5,7 +5,7 @@ It  is a Admin Dashboard made using ReactJs and styled using TailwindCSS.An admi
 
 ## How it  looks
 All the features of the admin dashboard can be seen in the image attached below. <br/>
-<img src='./react/src/assets/dashboard.png' width='450' height='200'/>
+<img src='./src/assets/dashboard.png' width='450' height='200'/>
 
 ## 🛠️ Techstacks
 HTML, TailwindCss, ReactJs, React Hooks
