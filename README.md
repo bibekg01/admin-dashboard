@@ -1,8 +1,14 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Admin Dashboard
 
-Currently, two official plugins are available:
+It  is a Admin Dashboard made using ReactJs and styled using TailwindCSS.An admin dashboard is a vital component of an admin panel as it allows the user to visualize the data at a glance. The dashboard is composed of charts, graphs, and other visualization features which frees the user from wasting time sifting through and processing large amounts of data.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## How it  looks
+All the features of the admin dashboard can be seen in the image attached below. <br/>
+<img src='./react/src/assets/dashboard.png' width='450' height='200'/>
+
+## 🛠️ Techstacks
+HTML, TailwindCss, ReactJs, React Hooks
+
+## Author
+ Bibek Gauli
